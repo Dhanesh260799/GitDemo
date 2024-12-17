@@ -11,5 +11,7 @@ public class PS {
 	@BeforeMethod
 	public void login() {
 		System.out.println("Successfully logged in");
+		System.out.println("Successfully logged in");
+
 	}
 }
