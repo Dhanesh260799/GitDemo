@@ -5,6 +5,7 @@ public class PS {
 	
 	public void dataGiver() {
 		System.out.println("Inheritance");
+		System.out.println("Changed for cloned repo: Note");
 	}
 	
 	@BeforeMethod
