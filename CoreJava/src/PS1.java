@@ -16,7 +16,7 @@ public class PS1 extends PS{
 		add.Decrement();
 		System.out.println(add.Increment());
 		System.out.println(add.Decrement());
-		System.out.println(add.Multiply());
+	//	System.out.println(add.Multiply());
 		
 		
 		
